@@ -1,24 +1,24 @@
 # 📊 Macro Reports
 
-Rapports macroéconomiques quotidiens — analyses, consensus vs réalité, positions de trading.
+Daily macroeconomic reports — analysis, consensus vs reality, trading positions.
 
-**Mis à jour chaque matin à ~08h CET.**
+**Updated every morning at ~08h CET.**
 
 ## Structure
 
-- `daily-briefs/` — Rapports quotidiens (Lundi–Samedi)
-- `weekly-briefs/` — Rapports hebdomadaires (Dimanche)
+- `daily-briefs/` — Daily reports (Monday–Saturday)
+- `weekly-briefs/` — Weekly macro reports (Sunday)
 
-## Format des fichiers
+## File Formats
 
-Chaque rapport est disponible en 3 formats :
-- `.md` — Markdown (lecture facile sur GitHub)
-- `.html` — HTML (rendu riche, tableaux, couleurs)
-- `.pdf` — PDF (version imprimable)
+Each report is available in 3 formats:
+- `.md` — Markdown (easy reading on GitHub)
+- `.html` — HTML (rich rendering, tables, colors)
+- `.pdf` — PDF (printable version)
 
 ## 📡 Sources
 
-Toutes les sources utilisées pour la rédaction des rapports.
+All sources used for report writing.
 
 ### FX & Bank Research
 | Source | URL | Notes |
@@ -136,13 +136,13 @@ Toutes les sources utilisées pour la rédaction des rapports.
 
 ---
 
-## Rapports disponibles
+## Available Reports
 
-### 📅 Rapports quotidiens (1 rapports)
+### 📅 Daily Reports (1 reports)
 
 - **2026-05-18_brief** — [MD](daily-briefs/2026-05-18_brief.md)
 
 
 ---
 
-*Généré automatiquement — [github.com/Wilfrid-art](https://github.com/Wilfrid-art)*
+*Auto-generated — [github.com/Wilfrid-art](https://github.com/Wilfrid-art)*
