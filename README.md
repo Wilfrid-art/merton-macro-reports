@@ -1,6 +1,6 @@
-# 📊 Merton Macro Reports
+# 📊 Macro Reports
 
-Rapports macroéconomiques quotidiens générés par Merton — analyses, consensus vs réalité, positions de trading.
+Rapports macroéconomiques quotidiens — analyses, consensus vs réalité, positions de trading.
 
 **Mis à jour chaque matin à ~08h CET.**
 
@@ -26,4 +26,4 @@ Chaque rapport est disponible en 3 formats :
 
 ---
 
-*Généré automatiquement par Merton — [github.com/Wilfrid-art](https://github.com/Wilfrid-art)*
+*Généré automatiquement — [github.com/Wilfrid-art](https://github.com/Wilfrid-art)*
