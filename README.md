@@ -136,10 +136,12 @@ All sources used for report writing.
 
 ---
 
+
 ## Available Reports
 
-### 📅 Daily Reports (1 reports)
+### 📅 Daily Reports (2 reports)
 
+- **2026-05-19_brief** — [MD](daily-briefs/2026-05-19_brief.md)
 - **2026-05-18_brief** — [MD](daily-briefs/2026-05-18_brief.md)
 
 
