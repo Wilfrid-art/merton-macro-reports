@@ -143,6 +143,10 @@ All sources used for report writing.
 - **2026-05-19_brief** — [PDF](daily-briefs/2026-05-19_brief.pdf)
 - **2026-05-18_brief** — [PDF](daily-briefs/2026-05-18_brief.pdf)
 
+### 📆 Weekly Reports (1 reports)
+
+- **2026-05-24_weekly_brief** — [PDF](weekly-briefs/2026-05-24_weekly_brief.pdf)
+
 
 ---
 
