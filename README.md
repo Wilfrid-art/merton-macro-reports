@@ -135,19 +135,18 @@ All sources used for report writing.
 
 ## Available Reports
 
-### 📅 Daily Reports (8 reports)
+### 📅 Daily Reports (6 reports)
 
+- **2026-05-31_brief** — [PDF](daily-briefs/2026-05-31_brief.pdf)
+- **2026-05-29_brief** — [PDF](daily-briefs/2026-05-29_brief.pdf)
+- **2026-05-28_brief** — [PDF](daily-briefs/2026-05-28_brief.pdf)
 - **2026-05-27_brief** — [PDF](daily-briefs/2026-05-27_brief.pdf)
 - **2026-05-26_brief** — [PDF](daily-briefs/2026-05-26_brief.pdf)
 - **2026-05-25_brief** — [PDF](daily-briefs/2026-05-25_brief.pdf)
-- **2026-05-22_brief** — [PDF](daily-briefs/2026-05-22_brief.pdf)
-- **2026-05-21_brief** — [PDF](daily-briefs/2026-05-21_brief.pdf)
-- **2026-05-20_brief** — [PDF](daily-briefs/2026-05-20_brief.pdf)
-- **2026-05-19_brief** — [PDF](daily-briefs/2026-05-19_brief.pdf)
-- **2026-05-18_brief** — [PDF](daily-briefs/2026-05-18_brief.pdf)
 
-### 📆 Weekly Reports (1 reports)
+### 📆 Weekly Reports (2 reports)
 
+- **2026-05-31_weekly_brief** — [PDF](weekly-briefs/2026-05-31_weekly_brief.pdf)
 - **2026-05-24_weekly_brief** — [PDF](weekly-briefs/2026-05-24_weekly_brief.pdf)
 
 
