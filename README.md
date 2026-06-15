@@ -135,6 +135,10 @@ All sources used for report writing.
 
 ## Available Reports
 
+### 📅 Daily Reports (1 reports)
+
+- **2026-06-15_brief** — [PDF](daily-briefs/2026-06-15_brief.pdf)
+
 ### 📆 Weekly Reports (1 reports)
 
 - **2026-06-14_weekly_brief** — [PDF](weekly-briefs/2026-06-14_weekly_brief.pdf)
