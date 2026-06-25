@@ -20,7 +20,7 @@ All sources used for report writing.
 ### FX & Bank Research
 | Source | URL | Notes |
 |--------|-----|-------|
-| ING FX Daily (Chris Turner) | https://think.ing.com/market/fx | **#1 priority** — read every morning |
+| ING FX Daily (Chris Turner) | https://think.ing.com/markets/fx | **#1 priority** — read every morning |
 | Chris Turner author page | https://think.ing.com/author/chris-turner | |
 | FXStreet | https://www.fxstreet.com/analysis | Real-time FX analysis |
 | ForexLive | https://www.forexlive.com | Ultra-fast breaking FX news |
@@ -124,37 +124,22 @@ All sources used for report writing.
 | Source | URL | Notes |
 |--------|-----|-------|
 | Yahoo Finance API | https://query1.finance.yahoo.com | Real-time prices for all assets |
-| DuckDuckGo Search | https://duckduckgo.com | Free web search |
-| Polymarket | https://polymarket.com | Prediction markets |
+| Polymarket | https://gamma-api.polymarket.com | Prediction markets |
 | CNN Fear & Greed | https://www.cnn.net/fear-and-greed | Market sentiment |
 | AAII Sentiment | https://www.aaii.com/sentimentsurvey | Investor sentiment |
 | CFTC COT | https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm | Futures positioning |
+| DuckDuckGo Search | https://duckduckgo.com | Free web search |
 
 ---
 
-
 ## Available Reports
 
-### 📅 Daily Reports (10 reports)
+### 📅 Daily Reports (1 report)
 
 - **2026-06-25_brief** — [PDF](daily-briefs/2026-06-25_brief.pdf)
-- **2026-06-24_brief** — [PDF](daily-briefs/2026-06-24_brief.pdf)
-- **2026-06-23_brief** — [PDF](daily-briefs/2026-06-23_brief.pdf)
-- **2026-06-22_brief** — [PDF](daily-briefs/2026-06-22_brief.pdf)
-- **2026-06-20_brief** — [PDF](daily-briefs/2026-06-20_brief.pdf)
-- **2026-06-19_brief** — [PDF](daily-briefs/2026-06-19_brief.pdf)
-- **2026-06-18_brief** — [PDF](daily-briefs/2026-06-18_brief.pdf)
-- **2026-06-17_brief** — [PDF](daily-briefs/2026-06-17_brief.pdf)
-- **2026-06-16_brief** — [PDF](daily-briefs/2026-06-16_brief.pdf)
-- **2026-06-15_brief** — [PDF](daily-briefs/2026-06-15_brief.pdf)
 
-### 📆 Weekly Reports (2 reports)
-
-- **2026-06-21_weekly_brief** — [PDF](weekly-briefs/2026-06-21_weekly_brief.pdf)
-- **2026-06-14_weekly_brief** — [PDF](weekly-briefs/2026-06-14_weekly_brief.pdf)
-
+### 📆 Weekly Reports (0 reports)
 
 ---
 
 *Auto-generated — [github.com/Wilfrid-art](https://github.com/Wilfrid-art)*
-# Test push
