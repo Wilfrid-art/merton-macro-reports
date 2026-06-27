@@ -2,7 +2,7 @@
 
 Daily macroeconomic reports — analysis, consensus vs reality, trading positions.
 
-**Updated every morning at ~08h CET.**
+**Updated every morning at ~07h45 CET (auto-push).**
 
 ## Structure
 
@@ -134,8 +134,9 @@ All sources used for report writing.
 
 ## Available Reports
 
-### 📅 Daily Reports (10 reports)
+### 📅 Daily Reports (11 reports)
 
+- **2026-06-26_brief** — [PDF](2026-06-26_brief.pdf) 🇬🇧 EN
 - **2026-06-25_brief** — [PDF](daily-briefs/2026-06-25_brief.pdf) 🇬🇧 EN
 - **2026-06-24_brief** — [PDF](daily-briefs/2026-06-24_brief.pdf) 🇫🇷 FR
 - **2026-06-23_brief** — [PDF](daily-briefs/2026-06-23_brief.pdf) 🇫🇷 FR

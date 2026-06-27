@@ -1,0 +1,89 @@
+2026-06-27 14:26:18.071 INFO  [JTS-Main] - OvernightManager.dayInit: new values: dayOfTheWeek: 7 (Sat), YYYYMMofToday: 202606, YYYYMMDDofToday: 20260627, m_todayDate: 20260627, dueToChangeInTimezone: false
+2026-06-27 14:26:18.074 INFO  [JTS-Main] - Created on: 20260627
+2026-06-27 14:26:18.077 INFO  [JTS-Main] - ------------------------------- IB GATEWAY RESTART --------------------------------
+2026-06-27 14:26:18.081 INFO  [JTS-Main] - installer version: unknown, installer type: unknown, install dir: '/home/ranger_merton/Jts/ibgateway/1045/', Jts dir: '/home/ranger_merton/.hermes/reports/github-macro-reports/-inline', VM options file: 'null'
+2026-06-27 14:26:18.083 INFO  [JTS-Main] - Verifying environment [entryPoint=IBGATEWAY_STANDALONE]...
+2026-06-27 14:26:18.083 INFO  [JTS-Main] - Installer type set to: INSTALL4J_STANDALONE.
+2026-06-27 14:26:18.137 ERROR [JTS-Main] - The file /home/ranger_merton/.hermes/reports/github-macro-reports/-inline/jts.ini does not exist.
+2026-06-27 14:26:18.352 INFO  [JTS-Main] - Build 10.45.1h, Jun 24, 2026 3:59:47 PM
+2026-06-27 14:26:18.352 INFO  [JTS-Main] - Enable One-Time Events Tracking
+2026-06-27 14:26:18.538 INFO  [JTS-Main] - PROXY Installed custom selector
+2026-06-27 14:26:18.542 INFO  [JTS-Main] - AB-DEBUG: ConManSettings is initialized from host = null and port = 0. [PEER] null:0
+2026-06-27 14:26:18.543 INFO  [JTS-Main] - AB-DEBUG: ConManSettings is initialized from peer = -port. [HOST] null [PORT] 0
+2026-06-27 14:26:18.544 INFO  [JTS-Main] - AB-DEBUG: ConManSettings is initialized from peer = null. [HOST] null [PORT] 0
+2026-06-27 14:26:18.545 INFO  [JTS-Main] - AB-DEBUG: ConManSettings' PEER will not be initialized from Jts.ini file: /home/ranger_merton/.hermes/reports/github-macro-reports/-inline/jts.ini
+2026-06-27 14:26:18.554 INFO  [JTS-Main] - useSsl=false,FIX endPoint=null:4000
+2026-06-27 14:26:18.584 INFO  [JTS-Main] - LOCALE: Property locale_to_use=null JTS Locale=en_US  country=United States  variant=
+2026-06-27 14:26:18.587 INFO  [JTS-Main] - Region: Custom
+2026-06-27 14:26:18.599 INFO  [JTS-Main] - DocumentBuilderFactory=jrt:/java.xml/com/sun/org/apache/xerces/internal/jaxp/DocumentBuilderFactoryImpl.class
+2026-06-27 14:26:18.635 INFO  [JTS-Main] - LOCALE: loaded 11 supported locales
+2026-06-27 14:26:18.692 INFO  [JTS-Main] - LOCALE: loaded 10 countries
+2026-06-27 14:26:18.810 INFO  [JTS-Main] - LOCALE: from OS: en
+2026-06-27 14:26:18.813 INFO  [JTS-Main] - LOCALE: created classloader java.net.URLClassLoader@25e2ab5a with file:/home/ranger_merton/Jts/ibgateway/1045/jars/locales.jar, parent: jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82
+2026-06-27 14:26:18.817 INFO  [JTS-Main] - Locale=en_US  country=United States  variant=
+2026-06-27 14:26:18.827 INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage]
+2026-06-27 14:26:18.839 INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage_en]
+2026-06-27 14:26:18.850 INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage_en_US]
+2026-06-27 14:26:18.853 INFO  [JTS-Main] - LOCALE:  type: launcher intended: en_US actual:  size: 522
+2026-06-27 14:26:18.858 INFO  [JTS-Main] - settings dir: '/home/ranger_merton/.hermes/reports/github-macro-reports/-inline'
+2026-06-27 14:26:18.886 ERROR [JTS-Main] - Error during FX Thread start up, this may result in problem described in bz87660 to reacquire
+java.lang.IllegalAccessException: class twslaunch.trader.common.g cannot access class com.sun.javafx.application.PlatformImpl (in module javafx.graphics) because module javafx.graphics does not export com.sun.javafx.application to unnamed module @614ca7df
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:561)
+	at twslaunch.trader.common.g.l(g.java:988)
+	at ibgateway.GWClient.a(Unknown Source)
+	at ibgateway.GWClient.main(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:84)
+	at com.install4j.runtime.launcher.UnixLauncher.start(UnixLauncher.java:71)
+	at install4j.ibgateway.GWClient.main(Unknown Source)
+2026-06-27 14:26:18.920 INFO  [JTS-Main] - LauncherFontUpdater: simulatehighdefscreen=false
+2026-06-27 14:26:19.050 INFO  [JTS-Main] - LauncherFontUpdater: Screen dimensions=1024x768
+2026-06-27 14:26:19.051 INFO  [JTS-Main] - LauncherFontUpdater: highres=false
+2026-06-27 14:26:19.051 INFO  [JTS-Main] - LauncherFontUpdater: FontSize=16
+2026-06-27 14:26:19.051 INFO  [JTS-Main] - initPreUI() - entry
+2026-06-27 14:26:19.201 INFO  [JTS-Main] - tipShowing field isn't available in ToolTipManager class for java 17.0.16.0.101
+2026-06-27 14:26:19.395 INFO  [JTS-Main] - LookAndFeelChangedListener installed
+2026-06-27 14:26:19.399 INFO  [JTS-Main] - JtsLookAndFeel initialized
+2026-06-27 14:26:20.439 INFO  [JTS-Main] - Current LAF: TWS LAF
+2026-06-27 14:26:20.440 INFO  [JTS-Main] - initPreUI() - exit
+2026-06-27 14:26:20.460 INFO  [JTS-Main] - MiscUrls SSL strategy: SSL first with fallback (UseSSL=null)
+2026-06-27 14:26:20.461 INFO  [JTS-Main] - AB-DEBUG: Connection is initialized from ConnectionEndPoint: null:1 (SSL)
+2026-06-27 14:26:21.857 INFO  [AWT-EventQueue-1] - Default timezone:Europe/Berlin
+2026-06-27 14:26:21.860 INFO  [AWT-EventQueue-1] - Starting GstatMessageMgr...
+2026-06-27 14:26:21.867 WARN  [JTS-GstatMessageMgr-6] - Misc URLs have not been received. Resending request...
+2026-06-27 14:26:21.868 INFO  [JTS-GstatMessageMgr-6] - MiscUrls SSL strategy: SSL first with fallback (UseSSL=null)
+2026-06-27 14:26:21.868 INFO  [JTS-GstatMessageMgr-6] - AB-DEBUG: Connection is initialized from ConnectionEndPoint: null:1 (SSL)
+2026-06-27 14:26:21.915 INFO  [AWT-EventQueue-1] - Started on 20260627-12:26:21
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - Default timezone:Europe/Berlin name:Central European Standard Time dst:3600000
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - java version = 17.0.16.0.101
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - sun.arch.data.model = 64
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - os = Linux
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - os version = 6.8.0-124-generic
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - os architecture = 32
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - runtime = OpenJDK Runtime Environment
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - vendor = Azul Systems, Inc.
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - vm name = OpenJDK 64-Bit Server VM
+2026-06-27 14:26:21.916 INFO  [AWT-EventQueue-1] - username = 'ranger_merton'
+2026-06-27 14:26:23.513 WARN  [JTS-DeadlockMonitor-2] - instance of control is not created yet
+2026-06-27 14:26:23.515 INFO  [JTS-DeadlockMonitor-2] - Memory:total=786,432KB free=752,201KB HeapUsage: Max=786,432KB used=32,846KB committed=66,560KB NonHeapUsage: Max=0KB used=65,652KB committed=67,904KB
+2026-06-27 14:26:24.771 INFO  [JTS-DeadlockMonitor-2] - CPU:cur=8.17% avg=8.17% 30 min avg=8.17% 10 min avg=8.17% 5 min avg=8.17% 1 min avg=8.17%
+GC:called=9 times CPU used=0.60%
+Finalizer:cur=0.00% avg=0.00% 30 min avg=0.00% 10 min avg=0.00% 5 min avg=0.00% 1 min avg=0.00%
+Threads Count:curr live=21 curr daemon=16
+2026-06-27 14:29:21.869 WARN  [JTS-GstatMessageMgr-6] - Misc URLs have not been received. Resending request...
+2026-06-27 14:29:21.872 INFO  [JTS-GstatMessageMgr-6] - MiscUrls SSL strategy: SSL first with fallback (UseSSL=null)
+2026-06-27 14:29:21.872 INFO  [JTS-GstatMessageMgr-6] - AB-DEBUG: Connection is initialized from ConnectionEndPoint: null:1 (SSL)
+2026-06-27 14:31:23.575 WARN  [JTS-DeadlockMonitor-2] - instance of control is not created yet
+2026-06-27 14:31:23.578 INFO  [JTS-DeadlockMonitor-2] - Memory:total=786,432KB free=743,686KB HeapUsage: Max=786,432KB used=41,038KB committed=66,560KB NonHeapUsage: Max=0KB used=68,320KB committed=70,144KB
+2026-06-27 14:31:24.592 INFO  [JTS-DeadlockMonitor-2] - CPU:cur=0.02% avg=0.45% 30 min avg=0.45% 10 min avg=0.45% 5 min avg=0.45% 1 min avg=0.11%
+GC:called=9 times CPU used=0.02%
+Finalizer:cur=0.00% avg=0.00% 30 min avg=0.00% 10 min avg=0.00% 5 min avg=0.00% 1 min avg=0.00%
+Threads Count:curr live=19 curr daemon=14
+2026-06-27 14:32:21.873 WARN  [JTS-GstatMessageMgr-6] - Misc URLs have not been received. Resending request...
+2026-06-27 14:32:21.880 INFO  [JTS-GstatMessageMgr-6] - MiscUrls SSL strategy: SSL first with fallback (UseSSL=null)
+2026-06-27 14:32:21.881 INFO  [JTS-GstatMessageMgr-6] - AB-DEBUG: Connection is initialized from ConnectionEndPoint: null:1 (SSL)
