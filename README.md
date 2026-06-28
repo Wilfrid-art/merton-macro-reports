@@ -148,8 +148,9 @@ All sources used for report writing.
 - **2026-06-16_brief** — [PDF](daily-briefs/2026-06-16_brief.pdf) 🇫🇷 FR
 - **2026-06-15_brief** — [PDF](daily-briefs/2026-06-15_brief.pdf) 🇫🇷 FR
 
-### 📆 Weekly Reports (2 reports)
+### 📆 Weekly Reports (3 reports)
 
+- **2026-06-28_weekly_brief** — [PDF](daily-briefs/2026-06-28_brief.pdf) 🇬🇧 EN
 - **2026-06-21_weekly_brief** — [PDF](weekly-briefs/2026-06-21_weekly_brief.pdf)
 - **2026-06-14_weekly_brief** — [PDF](weekly-briefs/2026-06-14_weekly_brief.pdf)
 
